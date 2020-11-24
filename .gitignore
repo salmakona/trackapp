@@ -1,0 +1,12 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+tracks/node_modules
+track-server_2/node_modules
