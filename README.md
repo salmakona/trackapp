@@ -1,3 +1,3 @@
 # trackapp
 
-location trackign application build by react native
+location tracking application build by react native
